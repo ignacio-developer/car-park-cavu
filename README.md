@@ -43,7 +43,7 @@ DB_PASSWORD=
 If it doesn't ask, run MySQL query:
 
 ```sql
-CREATE DATABASE car_park CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE car_park_cavu CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 ```
 
 ---
