@@ -62,6 +62,10 @@ If you need a clean reset:
 php artisan migrate:fresh --seed
 ```
 
+For seeding only:
+```bash
+php artisan db:seed
+```
 ---
 
 ## 4) Run the API
